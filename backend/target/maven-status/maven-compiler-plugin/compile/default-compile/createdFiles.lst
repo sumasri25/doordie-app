@@ -1,0 +1,6 @@
+com\taskflow\controller\GlobalExceptionHandler.class
+com\taskflow\controller\TodoController.class
+com\taskflow\model\Todo.class
+com\taskflow\repository\TodoRepository.class
+com\taskflow\service\TodoService.class
+com\taskflow\TodoBackendApplication.class
